@@ -12,7 +12,6 @@
 
 
 [![website](./img/twitter-light.svg)](https://twitter.com/bluenights004#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/bluenights004#gh-dark-mode-only)
 
 
 ### Languages and Tools:
