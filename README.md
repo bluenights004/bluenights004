@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+![Twitter Follow](https://img.shields.io/twitter/follow/bluenights004?style=social)
 
 ### Languages and Tools:
 
