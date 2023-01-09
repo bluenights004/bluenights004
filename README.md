@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
+
 [![website](./img/twitter-light.svg)](https://twitter.com/bluenights004#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/bluenights004#gh-dark-mode-only)
 
@@ -24,7 +24,4 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/solidity/solidity-original.svg" style="padding-right:10px;" />]
 
-<br />
-<br />
 
----
