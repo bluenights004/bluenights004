@@ -1,6 +1,6 @@
 #  <div align="center"> Hi there, I'm Ocean&Sky 👋 </div>
   
-## <div align="center"> I'm a career shifter breaking into the world of Web3!! </div>
+## <div align="center"> I'm a career shifter breaking into the world of Web3! </div>
 
 - 🌱 I’m currently learning Solidity and smart contract security 
 - 👯 I’m interested to collaborate with other solidity developers and security researchers
