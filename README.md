@@ -5,9 +5,9 @@
 <img src="https://github.com/bluenights004/bluenights004/blob/main/Developer%20activity.gif" width=300 align=right />
 
 - 🌱 I’m currently learning Solidity and smart contract security 
-- 👯 I’m interested to collaborate with other solidity developers and security researchers
+- 👯 I’m interested to collaborate with other solidity developers
 - 🥅 2023 Goals: To become top 100 in Code4rena :muscle: 
-- ⚡ Fun fact: I love history subject and travelling around the world and sometimes cooking :rofl:
+- ⚡ Fun fact: I love history subject and travelling around the world
 
 
 ### Connect with me:
