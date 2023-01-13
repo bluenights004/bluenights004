@@ -7,6 +7,7 @@
 - 🥅 2023 Goals: To become top 100 in Code4rena :muscle: 
 - ⚡ Fun fact: I love history subject and travelling around the world and sometimes cooking :rofl:
 
+<img src="https://github.com/bluenights004/bluenights004/blob/main/Developer%20activity.gif" width=400 align=right />
 
 ### Connect with me:
 
