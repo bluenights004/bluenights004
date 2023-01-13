@@ -27,8 +27,7 @@
 <img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />
 
-
-
+<br>
 <br>
 
 ### My Github History:
