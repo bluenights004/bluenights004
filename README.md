@@ -26,3 +26,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />
+
+### My Github History:
+![Snake animation](https://github.com/bluenights004/bluenights004/blob/output/github-contribution-grid-snake.svg)
