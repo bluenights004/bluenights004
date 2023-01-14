@@ -2,7 +2,7 @@
   
 ## <div align="center"> I'm a career shifter breaking into the world of Web3! </div>
 
-<img src="https://github.com/bluenights004/bluenights004/blob/main/coding.gif" width=400 align=right />
+<img src="https://github.com/bluenights004/bluenights004/blob/main/coding.gif" width=370 align=right />
 
 - 🌱 I’m currently learning Solidity and smart contract security 
 - 👯 I’m interested to collaborate with other solidity developers
