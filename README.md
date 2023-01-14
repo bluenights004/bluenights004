@@ -8,7 +8,7 @@
 - 👯 I’m interested to collaborate with other solidity developers
 - 🥅 2023 Goals: To become top 100 in Code4rena :muscle: 
 - ⚡ Fun fact: I love history subject and travelling around the world :earth_americas:
-- 🎨 Thanks [StorySet](https://storyset.com/illustration/javascript-frameworks/amico)! for this professional-look image 👉
+- 🎨 Thanks [Tenor](https://tenor.com/view/coding-gif-24090007)! for this professional-look image 👉
 
 ### Connect with me:
 
