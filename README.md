@@ -1,10 +1,10 @@
 #  <div align="center"> Hi there, I'm Ocean&Sky 👋 </div>
   
-## <div align="center"> I'm a career shifter breaking into the world of Web3! </div>
+## <div align="center"> I'm a Security Researcher in Web3 Space! </div>
 
 <img src="https://github.com/bluenights004/bluenights004/blob/main/coding.gif" width=375 align=right />
 
-- 🌱 I’m currently learning Solidity and smart contract security 
+- 🌱 I’m currently hunting bugs in smart contract security contests
 - 👯 I’m interested to collaborate with other solidity developers
 - 🥅 2023 Goals: To become top 100 in Code4rena :muscle: 
 - ⚡ Fun fact: I love history subject and travelling around the world :earth_americas:
