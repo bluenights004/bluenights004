@@ -5,7 +5,7 @@
 <img src="https://github.com/bluenights004/bluenights004/blob/main/coding.gif" width=375 align=right />
 
 - 🌱 I’m currently hunting bugs in smart contract security contests
-- 👯 I’m interested to collaborate with core Cairo developers and contribute to Starknet ecosystem
+- 👯 Expanding beyond Solidity, going into Cairo, Rust and Golang LFG! 
 - 🥅 2024 Goals: To become top 100 in Code4rena :muscle: 
 - ⚡ Fun fact: I love history subject and travelling around the world :earth_americas:
 - 🎨 Thanks [Tenor](https://tenor.com/view/coding-gif-24090007)! for this professional-look image 👉
