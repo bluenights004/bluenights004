@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently hunting bugs in smart contract security contests
 - 👯 Expanding beyond Solidity, going into Cairo, Rust and Golang
-- 🥅 2024 Goals: Be security expert on Rust-based Ecosystems (Starknet & Cosmos) :muscle: 
+- 🥅 2024 Goals: Be security expert on Rust-based Ecosystems :muscle: 
 - ⚡ Fun fact: I love history subject and travelling around the world :earth_americas:
 - 🎨 Thanks [Tenor](https://tenor.com/view/coding-gif-24090007)! for this professional-look image 👉
 
