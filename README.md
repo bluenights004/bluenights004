@@ -5,9 +5,10 @@
 <img src="https://github.com/bluenights004/bluenights004/blob/main/coding.gif" width=375 align=right />
 
 - 🌱 I’m currently hunting bugs in smart contract security contests
+- 🔢 Former licensed accountant who got curious in Web3 DeFi
 - 👯 Expanding beyond Solidity, going into Cairo, Rust and Golang
 - 🥅 2024 Goals: Be security expert on Rust-based Ecosystems :muscle: 
-- ⚡ Fun fact: I love history subject and travelling around the world :earth_americas:
+- 🌏 Fun fact: I love history subject and travelling around the world :earth_americas:
 - 🎨 Thanks [Tenor](https://tenor.com/view/coding-gif-24090007)! for this professional-look image 👉
 
 ### Connect with me:
