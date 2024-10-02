@@ -7,7 +7,7 @@
 - 🌱 I’m currently hunting bugs in smart contract security contests
 - 🔢 Former licensed accountant who got curious in Web3 DeFi
 - 👯 Expanding beyond Solidity, going into Cairo, Rust and Golang
-- 🥅 2024 Goals: Be security expert on Defi OG Pillars (Compound, Aave, Maker) :muscle: 
+- 🥅 2024 Goals: Foundation Mastery of Defi OG Pillars (Compound, Aave, Maker) :muscle: 
 - 🌏 Fun fact: I love history subject and travelling around the world :earth_americas:
 - 🎨 Thanks [Tenor](https://tenor.com/view/coding-gif-24090007)! for this professional-look image 👉
 
