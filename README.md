@@ -1,6 +1,6 @@
 #  <div align="center"> Hi there, I'm Ocean_Sky 👋 </div>
   
-## <div align="center"> I'm a Security Researcher in Web3 Space! </div>
+## <div align="center"> Security Researcher in Web3 Space! </div>
 
 <img src="https://github.com/bluenights004/bluenights004/blob/main/coding.gif" width=375 align=right />
 
